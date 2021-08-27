@@ -4,4 +4,4 @@
 > pero casi nunca tenemos tiempo para documentar los nuestros.
 > ¿Cómo podemos hacer que escribir documentación para nuestro software sea lo más placentero posible?
 
-[TBC]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/charla-sphinx/main?filepath=Charla%20Sphinx.ipynb)

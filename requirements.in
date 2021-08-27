@@ -1,0 +1,4 @@
+notebook
+rise
+sphinx~=4.1.2
+myst-parser
